@@ -17,6 +17,22 @@
 * [Issues](impact/issues.md)
 * [Decisions](impact/decisions.md)
 
-## Group 4
+## ⭐ Objectives
 
-* [Page 4](group-4/page-4.md)
+* [Goals and Purpose](objectives/goals-and-purpose.md)
+* [Measures and Deliverables](objectives/measures-and-deliverables.md)
+* [Scope](objectives/scope.md)
+
+## 🗓 Plan
+
+* [Milestones](https://gitlab.wgtn.cat-it.co.nz/sysadmins/projects/network-rebuild/-/milestones)
+* [Tasks](https://gitlab.wgtn.cat-it.co.nz/sysadmins/projects/network-rebuild/-/issues)
+* [Timeline](plan/timeline.md)
+
+## ⚙ Resources
+
+* [Budget](resources/budget.md)
+* [Hardware](resources/hardware.md)
+* [Software](resources/software.md)
+* [Control Plan](resources/control-plan.md)
+* [People](resources/people.md)
