@@ -1,16 +1,21 @@
 # Table of contents
 
-## Group 1
+## 🟢 Initiation
 
-* [Page 1](README.md)
+* [Background](README.md)
+* [Current Status](initiation/current-status.md)
 
-## Group 2
+## 👥 People
 
-* [Page 2](group-2/page-2.md)
+* [Team Composition](people/team-composition.md)
+* [Key Stakeholders](people/key-stakeholders.md)
 
-## Group 3
+## ❗ Impact
 
-* [Page 3](group-3/page-3.md)
+* [Risks](impact/risks.md)
+* [Assumptions](impact/assumptions.md)
+* [Issues](impact/issues.md)
+* [Decisions](impact/decisions.md)
 
 ## Group 4
 
