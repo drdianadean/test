@@ -1,7 +1,7 @@
 ---
-description: Things
+description: Description
 ---
 
 # Background
 
-People
+The network equipment, both Office LAN and hosting/core, at Willis St is long past EOL and needs to be replaced.
